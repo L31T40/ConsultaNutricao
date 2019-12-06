@@ -1,0 +1,43 @@
+﻿Ficha do Paciente;;
+Nome;Gervásio Palha;
+Idade;29;
+Altura;1,68;
+Peso;75;Kg
+IMC;26,57;
+B.F.;2;
+Gordura Visceral;14;
+Musculo;35;
+Idade Metabólica;30;
+H2O;15;
+Metabolismo Basal;21;
+Osso;23;
+Profissão;Veterinário;
+Motivo da Consulta;Desconforto gástrico;
+Objectivos;Melhorar os sintomas, diminuir o peso e melhorar a qualidade geral de vida.;
+Patologias;N.d.;
+Medicação;Nenhuma;
+Antecedentes familiares;Mãe sofre muita azia ao fim de semana;
+########################;;
+Actividade física;;
+Sedentário;;
+Moderadamente Ativo;X;
+Ativo;;
+Muito Ativo;;
+########################;;
+Função Intestinal;;
+Normal;X;
+Obstipado;;
+Diarreias;;
+########################;;
+Consumo de água;;
+Menos de 0.5L;;
+0.5L a 1L;X;
+1.5L a 2L;;
+Mais de 2L;;
+;;
+Dados quimicos e biologicos;;
+Colesterol;224;mg/dL
+Glicemia;91;mg/dL
+Ureia;30;mg/dL
+Creatinina;0,7;mg/dL
+Proteina C Reactiva;0,1;mg/dL

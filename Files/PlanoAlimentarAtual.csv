@@ -1,0 +1,33 @@
+descricao;horario;cod;qt;un
+Levantar;09:00;;;
+#;#;#;#;#
+Pequeno Almoço;10:00;;;
+;;IS025;100;ml
+;;IS057;100;gr
+;;IS246;100;gr
+#;#;#;#;#
+Meio da Manhã 1;11:00;;;
+;;IS246;100;gr
+#;#;#;#;#
+Meio da Manhã 2;12:00;;;
+;;IS473;100;gr
+#;#;#;#;#
+Almoço;13:00;;;
+;;IS780;100;gr
+;;IS726;250;ml
+;;IS805;100;gr
+#;#;#;#;#
+Meio da Tarde 1;15:00;;;
+;;IS473;100;gr
+#;#;#;#;#
+Meio da Tarde 2;17:00;;;
+;;IS246;100;gr
+#;#;#;#;#
+Jantar;20:00;;;
+;;IS780;100;gr
+;;IS726;250;ml
+;;IS805;100;gr
+#;#;#;#;#
+Ceia;23:00;;;
+;;IS246;100;gr
+#;#;#;#;#
